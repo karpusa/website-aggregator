@@ -1,0 +1,40 @@
+/* CSS declarations go here */
+.hidden_div {
+    display:none;
+}
+
+.login-link-text {
+    font-size: 18px;
+}
+
+.login-link-and-dropdown-list {
+    height: 50px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+.website-form {
+    margin-bottom: 20px;
+}
+
+.website__item {
+    margin-bottom: 12px;
+}
+
+.website__item-title {
+    font-size: 16px;
+}
+
+.comment__no-result {
+    font-size: 16px;
+}
+
+.comment__item {
+    padding: 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.comment__item-date {
+    font-size: 14px;
+}
